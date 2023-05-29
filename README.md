@@ -6,5 +6,26 @@ The application is built using Vanilla JS (a type of JavaScript) and styled with
 
 Overall, the Superhero Hunter app is designed to provide a simple and enjoyable experience for users who want to explore and learn about their favorite superheroes.
 
-Deployed link to the application :https://hariom90.github.io/SuperHeroHunter/ <br>
+
+## View app at
+
+#### [SuperHeroHunter](https://hariom90.github.io/SuperHeroHunter/)
+
+
+
+<hr />
+
 Link to the API being used to fetch the data : https://superheroapi.com 
+
+
+<hr />
+
+### Installation Options
+
+```
+git clone https://github.com/Hariom90/SuperHeroHunter.git
+```
+or
+
+Simply download the Zip File and run on your system
+<hr />
