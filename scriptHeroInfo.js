@@ -73,9 +73,9 @@ apiRequest.onreadystatechange = function(){
         let alignment = document.getElementById('alignment');
 
         if(data.biography.alignment=='good'){
-            alignment.setAttribute('src','images/goodSuperhero.webp');
+            alignment.setAttribute('src','goodSuperhero.webp');
         }else{
-            alignment.setAttribute('src','images/badSuperhero.jpg');
+            alignment.setAttribute('src','badSuperhero.jpg');
         }
 
         var gender = document.getElementById('gender-display');
