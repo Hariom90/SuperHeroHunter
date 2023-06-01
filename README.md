@@ -15,6 +15,15 @@ Overall, the Superhero Hunter app is designed to provide a simple and enjoyable 
 
 <hr />
 
+
+
+### Tech Used:
+- Javascript
+- HTML
+- CSS
+
+<hr />
+
 Link to the API being used to fetch the data : https://superheroapi.com 
 
 
