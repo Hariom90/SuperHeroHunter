@@ -28,4 +28,6 @@ git clone https://github.com/Hariom90/SuperHeroHunter.git
 or
 
 Simply download the Zip File and run on your system
+
+- Run the application by opening the index.html file in your browser.
 <hr />
